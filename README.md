@@ -21,4 +21,21 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Part 1:
+HTML CHANGES: 
+I took the HTML from the "HTML5" link and removed the .css portion of it. I pasted the .css elements from the html into my part1.css and made my changes from there (everything in .css has been modified by me)
+Global searched "style" and removed any style tags in the html
+Added a figcaption in room with a view
 
+References
+https://www.w3schools.com/html/html_css.asp
+https://stackoverflow.com/questions/14585101/old-paper-background-texture-with-just-css
+
+https://www.w3schools.com/howto/howto_css_center_website.asp
+
+https://stackoverflow.com/questions/7961721/how-do-i-install-a-custom-font-on-an-html-site
+
+https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp
+
+https://dev.to/code_mystery/sidebar-menu-using-html-and-css-o49
+https://www.google.com/search?q=padding+vs+margin&oq=padding+vs+margin&aqs=chrome..69i57j0i512l9.2255j0j7&sourceid=chrome&ie=UTF-8
